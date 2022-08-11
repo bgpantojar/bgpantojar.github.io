@@ -7,7 +7,7 @@ background: "/img/posts/post_cracks/tcd_4.png"
 
 # Generating LOD3 building models from structure-from-motion and semantic segmentation
 
-This post refers to a method for for crack detection using topological loss function. The methodology hereby implemented was presented in the paper ["TOPO-Loss for continuity-preserving crack detection using deep learning" by Pantoja-Rosero et., al. (2022)](https://doi.org/10.1016/j.conbuildmat.2022.128264). The repository containing the codes related with the method is publicly available in [Topo crack detection](https://github.com/bgpantojar/topo_crack_detection). Datasets used in the publication can be downloaded at [LOD3_buildings dataset](https://zenodo.org/record/6769028#.YvUrXGFByEI)
+This post refers to a method for crack detection using topological loss function. The methodology hereby implemented was presented in the paper ["TOPO-Loss for continuity-preserving crack detection using deep learning" by Pantoja-Rosero et., al. (2022)](https://doi.org/10.1016/j.conbuildmat.2022.128264). The repository containing the codes related with the method is publicly available in [Topo crack detection](https://github.com/bgpantojar/topo_crack_detection). Datasets used in the publication can be downloaded at [Topo crack detection dataset](https://zenodo.org/record/6769028#.YvUrXGFByEI)
 
 ![IMDb page](/img/posts/post_cracks/tcd_3.png)
 
