@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Image-based geometric digital twinning for stone masonry elements"
-subtitle: "Generating models for numerical simulation of stonme masonry elements built in laboratory"
+subtitle: "Generating models for numerical simulation of stone masonry elements built in laboratory -- towards circular economy"
 background: "/img/posts/post_gdt_sme/gdt_sme_0.png"
 ---
 
