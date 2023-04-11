@@ -7,7 +7,7 @@ background: "/img/posts/post_LOD3/lod3_01.png"
 
 # Generating LOD3 building models from structure-from-motion and semantic segmentation
 
-This post refers to a method for computing damage augmented digital twins as 3D models for buildings. The hereby methodology was presented in the paper ["Damage-augmented digital twins towards the automated inspection of buildings" by Pantoja-Rosero et., al. (2023)] (https://doi.org/10.1016/j.autcon.2023.104842). The repository containing the codes related with the method is publicly available in [DADT_buildings](https://github.com/bgpantojar/DADT_buildings). Datasets used in the publication can be downloaded at [DADT_buildings dataset](https://doi.org/10.5281/zenodo.7767478)
+This post refers to a method for computing damage augmented digital twins as 3D models for buildings. The hereby methodology was presented in the paper ["Damage-augmented digital twins towards the automated inspection of buildings" by Pantoja-Rosero et., al. (2023)](https://doi.org/10.1016/j.autcon.2023.104842). The repository containing the codes related with the method is publicly available in [DADT_buildings](https://github.com/bgpantojar/DADT_buildings). Datasets used in the publication can be downloaded at [DADT_buildings dataset](https://doi.org/10.5281/zenodo.7767478)
 
 ![IMDb page](/img/posts/post_DADT/dadt_02.png)
 
