@@ -10,8 +10,8 @@ raised in Pupiales, Colombia. Currently, I am a post-doctoral researcher in the 
 Engineering and Structural Dynamics (EESD) laboratory at the Ecole Polytechnique
 Fédérale de Lausanne (EPFL). My research focuses on monitoring structural health
 using computer vision, artificial intelligence, and physics-based models. In
-addition, as part of my entrepreneurial endeavors, I co-founded the imaged-based
-inspection infrastructure company SwissInspect, where I serve as chief
+addition, as part of my entrepreneurial endeavors, I co-founded the infrastructure imaged-based
+inspection company SwissInspect, where I serve as chief
 technology officer.
 
 I have extensive experience with physics-based micromodeling
