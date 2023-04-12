@@ -9,8 +9,8 @@ background: "/img/posts/post_kinematics/ck_02.png"
 
 This post refers to a method for computing crack kinematics using a binary mask that represents a segmented crack. The methodoly hereby implementes was presented in the paper ["Determing crack kinematics from imaged crack patterns"](https://doi.org/10.1016/j.conbuildmat.2022.128054) by Pantoja-Rosero et., al. The repository containing the codes related with the method is publicly available in [Crack Kinematics](https://github.com/bgpantojar/crack_kinematics). Datasets used in the publication can be downloaded at [Crack Kinematics dataset](https://zenodo.org/record/6632071#.YvUu0GFByEI)
 
-![IMDb page](/img/posts/post_cracks/ck_01.png)
-![IMDb page](/img/posts/post_cracks/ck_02.png)
+![IMDb page](/img/posts/post_kinematics/ck_01.png)
+![IMDb page](/img/posts/post_kinematics/ck_02.png)
 
 ## Abstract
 
