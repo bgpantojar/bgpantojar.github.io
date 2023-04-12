@@ -2,7 +2,7 @@
 layout: page
 title: About Me
 description: This is what I do.
-background: "/img/bgpr-about.png"
+background: "/img/bgpr-about-x.png"
 ---
 
 My name is Bryan German Pantoja-Rosero, I am 30 years old, and I was born and
