@@ -6,7 +6,7 @@ background: "/img/bgpr-about.png"
 ---
 
 My name is Bryan German Pantoja-Rosero, I am 30 years old, and I was born and
-raised in Pupiales, Colombia. I am a doctoral candidate in the Earthquake
+raised in Pupiales, Colombia. Currently, I am a post-doctoral researcher in the Earthquake
 Engineering and Structural Dynamics (EESD) laboratory at the Ecole Polytechnique
 Fédérale de Lausanne (EPFL). My research focuses on monitoring structural health
 using computer vision, artificial intelligence, and physics-based models. In
