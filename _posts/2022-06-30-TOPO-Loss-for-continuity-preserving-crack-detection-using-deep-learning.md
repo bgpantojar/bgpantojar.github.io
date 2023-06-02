@@ -7,12 +7,7 @@ background: "/img/posts/post_cracks/tcd_4.png"
 
 # TOPO-Loss for continuity-preserving crack detection using deep learning
 
- <iframe width="420" height="315"
-src="https://youtu.be/QSlvpPg4bmE">
-</iframe>
-
-<video src="https://youtu.be/QSlvpPg4bmE" controls="controls" style="max-width: 730px;">
-</video>
+[![Watch the video](/img/posts/post_cracks/video_p1.png)](https://youtu.be/QSlvpPg4bmE)
 
 This post refers to a method for crack detection using topological loss function. The methodology hereby implemented was presented in the paper ["TOPO-Loss for continuity-preserving crack detection using deep learning" by Pantoja-Rosero et., al. (2022)](https://doi.org/10.1016/j.conbuildmat.2022.128264). The repository containing the codes related with the method is publicly available in [Topo crack detection](https://github.com/bgpantojar/topo_crack_detection). Datasets used in the publication can be downloaded at [Topo crack detection dataset](https://zenodo.org/record/6769028#.YvUrXGFByEI)
 
