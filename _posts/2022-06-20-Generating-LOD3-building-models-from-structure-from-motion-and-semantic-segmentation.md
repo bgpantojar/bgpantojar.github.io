@@ -7,6 +7,8 @@ background: "/img/posts/post_LOD3/lod3_01.png"
 
 # Generating LOD3 building models from structure-from-motion and semantic segmentation
 
+[![Watch the video](/img/posts/post_LOD3/video_p3.png)](https://youtu.be/OdnjHHdyhlw)
+
 This post refers to a method for computing geometrical digital twins as LOD3 models for buildings using a structure from motion and semantic segmentation. The methodology hereby implements was presented in the paper [Generating LOD3 building models from structure-from-motion and semantic segmentation" by Pantoja-Rosero et., al. (2022)](https://doi.org/10.1016/j.autcon.2022.104430). The repository containing the codes related with the method is publicly available in [LOD3_buildings](https://github.com/bgpantojar/LOD3_buildings). Datasets used in the publication can be downloaded at [LOD3_buildings dataset](https://zenodo.org/record/6651663#.YvUh-GFByEI)
 
 ![IMDb page](/img/posts/post_LOD3/lod3_02.png)
