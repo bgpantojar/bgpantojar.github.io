@@ -7,6 +7,10 @@ background: "/img/posts/post_cracks/tcd_4.png"
 
 # TOPO-Loss for continuity-preserving crack detection using deep learning
 
+ <iframe width="420" height="315"
+src="https://youtu.be/QSlvpPg4bmE">
+</iframe>
+
 <video src="https://youtu.be/QSlvpPg4bmE" controls="controls" style="max-width: 730px;">
 </video>
 
