@@ -7,6 +7,8 @@ background: "/img/posts/post_gdt_sme/gdt_sme_0.png"
 
 # Image-based geometric digital twinning for stone masonry elements
 
+[![Watch the video](/img/posts/post_gdt_sme/video_p6.png)](https://youtu.be/GxhL_l-GIOI)
+
 This post refers to a method for generating geometrical digital twins for stone masonry elements using multiple-view images. The methodology hereby implemented was presented in the paper ["Image-based geometric digital twinning for stone masonry elements" by Pantoja-Rosero et., al. (2022)](https://doi.org/10.1016/j.autcon.2022.104632). The repository containing the codes related with the method is publicly available in [Stone masonry GDT](https://github.com/eesd-epfl/stone_masonry_GDT). Datasets used in the publication can be downloaded at [Stone masonry GDT dataset](https://doi.org/10.5281/zenodo.7266587)
 
 ![IMDb page](/img/posts/post_gdt_sme/gdt_sme_1.gif)
