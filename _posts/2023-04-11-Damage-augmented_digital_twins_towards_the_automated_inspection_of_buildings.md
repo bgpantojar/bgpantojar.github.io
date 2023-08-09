@@ -5,7 +5,7 @@ subtitle: "Damage augmented digital twins for buildings damage assessment"
 background: "/img/posts/post_dadt/dadt_02.png"
 ---
 
-# Generating LOD3 building models from structure-from-motion and semantic segmentation
+# Damage-augmented digital twins towards the automated inspection of buildings
 
 [![Watch the video](/img/posts/post_dadt/video_p4.png)](https://youtu.be/5O86vRACrcs)
 
