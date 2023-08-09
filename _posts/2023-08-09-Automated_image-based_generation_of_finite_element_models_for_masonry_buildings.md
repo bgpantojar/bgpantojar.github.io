@@ -2,7 +2,7 @@
 layout: post
 title: "Automated image-based generation of finite element models for masonry buildings"
 subtitle: "Finite element models for buildings"
-background: "/img/posts/post_fem/dadt_02.png"
+background: "/img/posts/post_fem/fem_02.png"
 ---
 
 # Automated image-based generation of finite element models for masonry buildings
