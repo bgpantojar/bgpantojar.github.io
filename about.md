@@ -5,7 +5,7 @@ description: This is what I do.
 background: "/img/bgpr-about-x.png"
 ---
 
-My name is Bryan German Pantoja-Rosero, I am 30 years old, and I was born and
+My name is Bryan German Pantoja-Rosero, I am 31 years old, and I was born and
 raised in Pupiales, Colombia. Currently, I am a post-doctoral researcher in the Earthquake
 Engineering and Structural Dynamics (EESD) laboratory at the Ecole Polytechnique
 Fédérale de Lausanne (EPFL). My research focuses on monitoring structural health
