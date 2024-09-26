@@ -13,7 +13,7 @@ Civil Construction from the Universidade de Brasília (UnB). Currently, I am a p
 researcher at the Smart Structures Research Laboratory, University of Texas at Austin.
 
 My research is centered on the application of artificial intelligence, computer vision, machine learning, 
-digital twins, and physics-based models to address engineering challenges related to construction automation, 
+digital twins, extended reality, and physics-based models to address engineering challenges related to construction automation, 
 structural health monitoring, and digitalization. I also have experience in finite element methods for modeling 
 reinforced concrete and masonry structures . As an educator, I have taught courses at both the bachelor’s and master’s levels,
 including differential calculus, mechanics of solids, structural analysis, computational methods, 
