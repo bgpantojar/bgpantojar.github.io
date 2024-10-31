@@ -5,7 +5,7 @@ subtitle: "Active learning for semantic segmentation"
 background: "/img/posts/post_PAL/pal_01.png"
 ---
 
-# Automatic Removal of Non-Architectural Elements in 3D Models of Historic Buildings with Language Embedded Radiance Fields
+# Partial annotations in active learning for semantic segmentation
 
 This post refers to a method for training semantic segmentation deep learning models using partial annotations in an active learning framework. The methodology was presented in the paper ["Partial annotations in active learning for semantic segmentation" by Pantoja-Rosero et., al. (2024)](https://doi.org/10.1016/j.autcon.2024.105828). 
 

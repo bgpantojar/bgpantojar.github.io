@@ -5,7 +5,7 @@ subtitle: "Generation LOD4 models of buildings from images"
 background: "/img/posts/post_LOD4/lod4_01.png"
 ---
 
-# Automatic Removal of Non-Architectural Elements in 3D Models of Historic Buildings with Language Embedded Radiance Fields
+# Generation of LOD4 models for buildings towards the automated 3D modeling of BIMs and digital twins
 
 This post refers to a method for generating LOD4 models of buildings using images, structure from motion, semantinc segmentation and 3D registration. The methodology was presented in the paper ["Generation of LOD4 models for buildings towards the automated 3D modeling of BIMs and digital twins" by Pantoja-Rosero et., al. (2024)](https://doi.org/10.1016/j.autcon.2024.105822). 
 
